@@ -1,0 +1,12 @@
+main: src.main
+name: PvP
+version: 2.0
+depend: [Netherboard]
+author: SrKammounYT
+commands:
+  pvp:
+  ps:
+  save:
+  spawn:
+  stats:
+  
